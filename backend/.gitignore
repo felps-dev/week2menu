@@ -1,0 +1,4 @@
+#Django arquivos de ambiente
+env
+.env
+__pycache__

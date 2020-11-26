@@ -1,0 +1,81 @@
+[
+{
+    "model": "menu.vendor",
+    "pk": 1,
+    "fields": {
+        "name": "Hello World"
+    }
+},
+{
+    "model": "menu.vendor",
+    "pk": 2,
+    "fields": {
+        "name": "Hello Gabriel"
+    }
+},
+{
+    "model": "menu.product",
+    "pk": 1,
+    "fields": {
+        "name": "Product 1",
+        "description": "This is a product 1",
+        "price": "1.50",
+        "status": 0,
+        "vendor": 1,
+        "updated": "2020-11-26T22:53:18.581Z",
+        "created": "2020-11-26T22:53:18.582Z"
+    }
+},
+{
+    "model": "menu.product",
+    "pk": 2,
+    "fields": {
+        "name": "Product 2",
+        "description": "This is a product 2",
+        "price": "2.40",
+        "status": 0,
+        "vendor": 1,
+        "updated": "2020-11-26T22:53:38.084Z",
+        "created": "2020-11-26T22:53:38.084Z"
+    }
+},
+{
+    "model": "menu.product",
+    "pk": 3,
+    "fields": {
+        "name": "Product 3",
+        "description": "This is a product 3",
+        "price": "5.00",
+        "status": 0,
+        "vendor": 1,
+        "updated": "2020-11-26T22:53:57.159Z",
+        "created": "2020-11-26T22:53:57.159Z"
+    }
+},
+{
+    "model": "menu.product",
+    "pk": 4,
+    "fields": {
+        "name": "Bananada",
+        "description": "This is a Bananada",
+        "price": "2.30",
+        "status": 0,
+        "vendor": 2,
+        "updated": "2020-11-26T22:54:22.717Z",
+        "created": "2020-11-26T22:54:22.717Z"
+    }
+},
+{
+    "model": "menu.product",
+    "pk": 5,
+    "fields": {
+        "name": "Dildo",
+        "description": "This is a Dildo",
+        "price": "1.20",
+        "status": 0,
+        "vendor": 2,
+        "updated": "2020-11-26T22:54:32.346Z",
+        "created": "2020-11-26T22:54:32.347Z"
+    }
+}
+]
