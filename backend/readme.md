@@ -3,6 +3,7 @@
 ### Tenha certeza de ter o último Python instalado
 
 Com o CD dentro da pasta `backend` crie um Virtual Env: `python -m venv env`  
+Carregue as dependências com `pip install -r requirements.txt`
 Depois disso entre nele com o comando(windows): `env\scripts\activate`
 Crie uma cópia do arquivo `env_template` com o nome `.env` e preencha com as informações do seu banco de dados  
 Crie o banco de dados especificado no `.env`
